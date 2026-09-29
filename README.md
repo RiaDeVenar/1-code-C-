@@ -1,5 +1,4 @@
 # 1-code-C++-
-Hello World!
 #include <iostream>
 
 int main()
